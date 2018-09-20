@@ -1,0 +1,6 @@
+# hack-a-thing-1-brusselsprout
+I attempted to build a basic iOS app in swift, without any iOS experience. I was hoping to work on a note taking app that would use internet. Instead, after learning swift, I found that I spent way, WAY more time than anticipating figuring out Xcode on my laptop. Turns out I had a very outdated version, of Xcode, no space on my laptop, and a fairly outdated macOS as well. I managed to update Xcode with enough laptop space but still need to update my laptop (forthcoming) to use any decently modern Xcode. Many, many bugs later, I realized that most tutorials would not work with my version of Xcode. I ended up combining a few tutorials that did not make too much sense together, because I wanted to use interesting features and make the most of my current operating system’s constraints, but did not have enough time by this point to make a cohesive app. Hence, an app that can both weigh things and convert temperature. I learned basic swift and a lot about the ins and outs of Xcode, and once I update my laptop I think I would be able to figure everything out quickly.
+
+Tutorials:
+https://www.appcoda.com/3d-touch-tutorial/
+https://www.techotopia.com/index.php/Creating_an_Interactive_iOS_9_App
